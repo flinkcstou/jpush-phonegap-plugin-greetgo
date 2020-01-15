@@ -7,7 +7,7 @@
 
 **注意**
 
-此插件来自 https://github.com/jpush/jpush-phonegap-plugin，以满足Google Play审核要求。
+此插件来自 https://github.com/jpush/jpush-phonegap-plugin ，以满足Google Play审核要求。
 
 ## 下文来自jpush/jpush-phonegap-plugin
 
