@@ -33,13 +33,13 @@
 - 通过 Cordova Plugins 安装，要求 Cordova CLI 5.0+：
 
   ```shell
-  cordova plugin add jpush-phonegap-plugin --variable APP_KEY=your_jpush_appkey
+  cordova plugin add jpush-phonegap-plugin-google-play --variable APP_KEY=your_jpush_appkey
   ```
 
 - 或直接通过 url 安装：
 
   ```shell
-  cordova plugin add https://github.com/jpush/jpush-phonegap-plugin.git --variable APP_KEY=your_jpush_appkey
+  cordova plugin add https://github.com/yanglb/jpush-phonegap-plugin-google-play.git --variable APP_KEY=your_jpush_appkey
   ```
 
 - 或下载到本地安装：
@@ -66,7 +66,7 @@
   - 同时动态配置 APP_KEY 和 CHANNEL 示例
 
     ```shell
-    cordova plugin add jpush-phonegap-plugin --variable APP_KEY=your_jpush_appkey --variable CHANNEL=your_channel
+    cordova plugin add jpush-phonegap-plugin-google-play --variable APP_KEY=your_jpush_appkey --variable CHANNEL=your_channel
     ```
 
 ### Ionic
