@@ -1,9 +1,15 @@
-# JPush PhoneGap / Cordova Plugin
+# JPush PhoneGap / Cordova Plugin Google Play edition
 
 [![Build Status](https://travis-ci.org/jpush/jpush-phonegap-plugin.svg?branch=master)](https://travis-ci.org/jpush/jpush-phonegap-plugin)
 [![release](https://img.shields.io/badge/release-3.4.1-blue.svg)](https://github.com/jpush/jpush-phonegap-plugin/releases)
 [![platforms](https://img.shields.io/badge/platforms-iOS%7CAndroid-lightgrey.svg)](https://github.com/jpush/jpush-phonegap-plugin)
 [![weibo](https://img.shields.io/badge/weibo-JPush-blue.svg)](http://weibo.com/jpush?refer_flag=1001030101_&is_all=1)
+
+**注意**
+
+此插件来自 https://github.com/jpush/jpush-phonegap-plugin，以满足Google Play审核要求。
+
+## 下文来自jpush/jpush-phonegap-plugin
 
 极光官方支持的 cordova 推送插件。
 
