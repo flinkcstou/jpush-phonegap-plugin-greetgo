@@ -1,35 +1,36 @@
-{
-    "name": "jpush-phonegap-plugin-google-play",
+  {
+    "name": "jpush-phonegap-plugin-greetgo",
     "version": "3.7.3",
     "description": "JPush for cordova plugin google play edition",
     "cordova": {
-        "id": "jpush-phonegap-plugin-google-play",
-        "platforms": [
-            "ios",
-            "android"
-        ]
+      "id": "jpush-phonegap-plugin-greetgo",
+      "platforms": [
+        "ios",
+        "android"
+      ]
     },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/yanglb/jpush-phonegap-plugin-google-play.git"
+      "type": "git",
+      "url": "git+https://github.com/flinkcstou/jpush-phonegap-plugin-greetgo.git"
     },
     "keywords": [
-        "JPush",
-        "push",
-        "Push",
-        "ecosystem:cordova",
-        "cordova-ios",
-        "cordova-android",
-        "google play"
+      "JPush",
+      "push",
+      "Push",
+      "ecosystem:cordova",
+      "cordova-ios",
+      "cordova-android",
+      "google play",
+      "greetgo"
     ],
     "devDependencies": {
-        "cordova-plugin-device": "*",
-        "cordova-plugin-jcore-google-play": ">=1.3.0"
+      "cordova-plugin-device": "*",
+      "cordova-plugin-jcore-greetgo": ">=1.3.0"
     },
-    "author": "JiGuang, yanglb",
+    "author": "JiGuang, yanglb, flinkcstou",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/yanglb/jpush-phonegap-plugin-google-play/issues"
+      "url": "https://github.com/jpush/jpush-phonegap-plugin/issues"
     },
-    "homepage": "https://github.com/yanglb/jpush-phonegap-plugin-google-play#readme"
-}
+    "homepage": "https://github.com/flinkcstou/jpush-phonegap-plugin-greetgo#readme"
+  }

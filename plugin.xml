@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
-  id="jpush-phonegap-plugin-google-play"
+  id="jpush-phonegap-plugin-greetgo"
   version="3.7.3">
 
     <name>JPush</name>
     <description>JPush for cordova plugin Google play edition</description>
-    <author>JPush, yanglb</author>
+    <author>JPush, yanglb, flinkcstou</author>
     <keywords>JPush,push</keywords>
     <license>MIT License</license>
 
@@ -19,7 +19,7 @@
 
     <!-- dependencies -->
     <dependency id="cordova-plugin-device" />
-    <dependency id="cordova-plugin-jcore-google-play" />
+    <dependency id="cordova-plugin-jcore-greetgo" />
 
     <js-module src="www/JPushPlugin.js" name="JPushPlugin">
         <clobbers target="JPush" />
@@ -249,7 +249,7 @@
 
         </config-file>
 
-        <lib-file src="src/android/libs/jpush-android-3.5.4-google_play.jar" />
+        <lib-file src="src/android/libs/jpush-android-3.5.8-google_play.jar" />
 
         <source-file src="src/android/PushService.java" target-dir="src/cn/jiguang/cordova/push" />
         <source-file src="src/android/JPushPlugin.java" target-dir="src/cn/jiguang/cordova/push" />
