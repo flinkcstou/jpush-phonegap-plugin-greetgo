@@ -1,6 +1,6 @@
   {
     "name": "jpush-phonegap-plugin-greetgo",
-    "version": "3.7.5",
+    "version": "3.7.7",
     "description": "JPush for cordova plugin google play edition",
     "cordova": {
       "id": "jpush-phonegap-plugin-greetgo",
